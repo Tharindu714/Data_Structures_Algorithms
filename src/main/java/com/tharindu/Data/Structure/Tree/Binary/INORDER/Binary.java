@@ -1,4 +1,4 @@
-package com.tharindu.Data.Structure.Tree.Binary;
+package com.tharindu.Data.Structure.Tree.Binary.INORDER;
 
 import java.util.LinkedList;
 import java.util.Queue;

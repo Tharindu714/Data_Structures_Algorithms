@@ -1,4 +1,4 @@
-package com.tharindu.Data.Structure.Tree.Binary;
+package com.tharindu.Data.Structure.Tree.Binary.PREORDER;
 
 public class Node {
     public int data;

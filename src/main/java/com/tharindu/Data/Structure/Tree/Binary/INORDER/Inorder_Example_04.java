@@ -1,8 +1,6 @@
-package com.tharindu.Data.Structure.Tree.Binary.Inorder_Example4;
+package com.tharindu.Data.Structure.Tree.Binary.INORDER;
 
-import com.tharindu.Data.Structure.Tree.Binary.Binary;
-
-public class Main {
+public class Inorder_Example_04 {
     public static void main(String[] args) {
         Binary BTree = new Binary();
 

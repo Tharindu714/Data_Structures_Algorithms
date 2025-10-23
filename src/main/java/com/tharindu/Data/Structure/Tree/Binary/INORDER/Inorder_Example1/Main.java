@@ -1,6 +1,6 @@
-package com.tharindu.Data.Structure.Tree.Binary.Inorder_Example1;
+package com.tharindu.Data.Structure.Tree.Binary.INORDER.Inorder_Example1;
 
-import com.tharindu.Data.Structure.Tree.Binary.Node;
+import com.tharindu.Data.Structure.Tree.Binary.INORDER.Node;
 
 public class Main {
     public static void main(String[] args) {
